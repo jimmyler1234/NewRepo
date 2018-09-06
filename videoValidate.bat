@@ -1,0 +1,1 @@
+start "" http://localhost/OSMM_Flat/application/youtubeVideoChecker.aspx?mode=validate
